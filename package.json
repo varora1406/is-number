@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/is-number",
+  "name": "@f/is-number",
   "description": "Check if a value is a number",
   "repository": "git://github.com/micro-js/is-number.git",
   "version": "1.0.0",

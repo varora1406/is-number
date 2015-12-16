@@ -10,12 +10,12 @@ Check if a value is a number
 
 ## Installation
 
-    $ npm install @micro-js/is-number
+    $ npm install @f/is-number
 
 ## Usage
 
 ```js
-var isNumber = require('@micro-js/is-number')
+var isNumber = require('@f/is-number')
 
 isNumber(1)
 isNumber(NaN)
@@ -42,5 +42,5 @@ MIT
 [git-url]: https://github.com/micro-js/is-number
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/is-number.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/is-number
+[npm-image]: https://img.shields.io/npm/v/@f/is-number.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/is-number
